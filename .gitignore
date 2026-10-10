@@ -1,0 +1,17 @@
+# Compiled Java class files
+*.class
+
+# Build output folder
+bin/
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
